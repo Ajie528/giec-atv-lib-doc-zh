@@ -1,0 +1,23 @@
+# Eclipse
+.project
+.classpath
+/.settings
+
+# Maven
+/target
+
+# Gradle
+/.gradle
+/build
+
+#IDEA
+/.idea
+*.iml
+/node_modules/
+/package-lock.json
+
+#vue dest
+/docs/.vuepress/dist/
+
+# Lock
+*.lock
