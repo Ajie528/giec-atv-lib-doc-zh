@@ -5,8 +5,9 @@ heroText: GIEC_ATV_Common_lib
 tagline: 🚀Tool library for GIEC Android development
 actionText: 快速开始 →
 actionLink: /pages/index/
-
-# 无背景
 bannerBg: none
-# 不显示文章列表
 postList: none
+title: index
+date: 2024-12-02 14:36:04
+permalink: /pages/555cc4/
+---
