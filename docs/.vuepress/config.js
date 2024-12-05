@@ -36,12 +36,8 @@ module.exports = {
         text: "🏮仓库地址",
         items: [
           {
-            text: "🍎gitee",
-            link: "https://gitee.com/dromara/hutool",
-          },
-          {
-            text: "🍏github",
-            link: "https://github.com/dromara/hutool",
+            text: "🍎gitlab",
+            link: "http://192.168.10.16/gitlab/giec_stb/stb_atv_lib",
           },
         ],
       },
