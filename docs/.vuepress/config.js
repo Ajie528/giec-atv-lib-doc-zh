@@ -29,6 +29,19 @@ module.exports = {
       { text: "📖指南", link: "/pages/index/" },
       { text: "⏳更新记录", link: "/pages/ChangeLog/" },
       {
+        text: "🔁Language switching",
+        items: [
+          {
+            text: "🇨🇳 中文",
+            link: "http://192.168.110.197:8080/",
+          },
+          {
+            text: "🇺🇸 英文",
+            link: "https://giec-atv-lib-doc-us-j2v2.vercel.app/",
+          },
+        ],
+      },
+      {
         text: "🏮仓库地址",
         items: [
           {
