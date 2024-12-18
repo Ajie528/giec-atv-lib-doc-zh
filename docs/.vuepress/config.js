@@ -29,15 +29,15 @@ module.exports = {
       { text: "📖指南", link: "/pages/index/" },
       { text: "⏳更新记录", link: "/pages/ChangeLog/" },
       {
-        text: "🔁Language switching",
+        text: "🔁语言切换",
         items: [
           {
             text: "🇨🇳 中文",
-            link: "http://192.168.110.197:8080/",
+            link: "https://giec-atv-lib-doc-zh.vercel.app/",
           },
           {
             text: "🇺🇸 英文",
-            link: "https://giec-atv-lib-doc-us-j2v2.vercel.app/",
+            link: "https://giec-atv-lib-doc-us.vercel.app/",
           },
         ],
       },
